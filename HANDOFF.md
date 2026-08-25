@@ -10,9 +10,7 @@ Updated 2026-08-22.
   - `.archive/script.js`
   - `.archive/README.md`
   - `.archive/assets/`
-- A refreshed `index.html` has been started at the repository root.
-- `style.css` is currently an empty placeholder because the first stylesheet write hit the machine's disk-space limit.
-- A new root `script.js` still needs to be created.
+- The refreshed `index.html`, `style.css`, and `script.js` are now in place at the repository root.
 
 ## Intended homepage
 
@@ -31,4 +29,4 @@ Build a scrollable, responsive one-page site for **Tompkins Engineering Design C
 
 ## Next action
 
-Finish `style.css` and add `script.js`, then inspect the page at desktop and mobile widths. Commit and push the completed changes so another machine can continue from GitHub.
+Inspect the page at desktop and mobile widths, then commit and push the completed changes so another machine can continue from GitHub.
